@@ -1264,16 +1264,6 @@ body {
 .cid-qxA73JyLAh blockquote {
   color: #767676;
 }
-.cid-qx6JnyUp2Z {
-  background-color: #ffffff;
-}
-.cid-qx6JnyUp2Z H1 {
-  color: #232323;
-}
-.cid-qx6JnyUp2Z .mbr-text,
-.cid-qx6JnyUp2Z .mbr-section-btn {
-  color: #232323;
-}
 .cid-qxzwsEjE3t {
   background-color: #dfdcd9;
 }
@@ -2173,4 +2163,14 @@ body {
 }
 .cid-qxzu2DSBRZ .card {
   padding-bottom: 1.5rem;
+}
+.cid-qx6JnyUp2Z {
+  background-color: #ffffff;
+}
+.cid-qx6JnyUp2Z H1 {
+  color: #232323;
+}
+.cid-qx6JnyUp2Z .mbr-text,
+.cid-qx6JnyUp2Z .mbr-section-btn {
+  color: #232323;
 }
