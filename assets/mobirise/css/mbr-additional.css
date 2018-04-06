@@ -2535,9 +2535,9 @@ body {
   color: #232323;
 }
 .cid-qwsdRUedQt {
-  padding-top: 60px;
-  padding-bottom: 45px;
-  background-color: #dfdcd9;
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
 .cid-qwsdRUedQt .mbr-text,
 .cid-qwsdRUedQt blockquote {
@@ -2548,7 +2548,7 @@ body {
   color: #767676;
 }
 .cid-qwsdRUedQt .mbr-text P {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-qxzu2DSBRZ {
   background-color: #ffffff;
@@ -2584,5 +2584,8 @@ body {
 }
 .cid-qx6JnyUp2Z .mbr-text,
 .cid-qx6JnyUp2Z .mbr-section-btn {
+  color: #232323;
+}
+.cid-qx6JnyUp2Z H3 {
   color: #232323;
 }
